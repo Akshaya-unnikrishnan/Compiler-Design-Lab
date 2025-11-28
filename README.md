@@ -20,8 +20,8 @@ This repository contains the complete set of Compiler Design laboratory experime
 | 3 | Count number of lines, words & characters | LEX |
 | 4 | Convert substring `abc` to `ABC` | LEX |
 | 5 | Count vowels & consonants | LEX |
-| 6 | Recognize valid arithmetic expression | YACC |
-| 7 | Recognize a valid identifier | YACC |
+| 6 | Recognize valid arithmetic expression | LEX + YACC |
+| 7 | Recognize a valid identifier | LEX + YACC |
 | 8 | Calculator using LEX & YACC | LEX + YACC |
 | 9 | NFA to DFA Conversion | C / Theory |
 | 10 | Shift Reduce Parser | YACC |
